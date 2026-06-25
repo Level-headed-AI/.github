@@ -25,3 +25,6 @@ Image Generation with your local LLM
      
 Speech To Text with your local LLM
    * Whisper https://github.com/ggml-org/whisper.cpp 
+
+Codeing Agents
+   * https://opencode.ai/
