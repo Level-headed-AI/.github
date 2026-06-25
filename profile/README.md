@@ -1,5 +1,14 @@
 # Level-headed AI Discussions
 
+**The group that discusses AI in a level-headed way.** Most things we hear/watch/read online are either from AI Evangelists or from AI Doomers -- or are a front for one of the two camps. If you are frustrated by this false dichotomy, this group is for you!
+
+
+
+
+## Articles and Podcasts that discuss AI in a Level-headed way
+
+* Galaxy Brain: How to Think About AI Before It’s Too Late:  https://www.theatlantic.com/podcasts/2026/06/how-to-think-about-ai-before-its-too-late/687644/
+
 
 ## Getting started with Local LLM tools
 
