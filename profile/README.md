@@ -1,4 +1,4 @@
 # Level-headed AI Discussions
 
 
-![](logo.png){width=20%}
+<img src="logo.png" width="20%">
