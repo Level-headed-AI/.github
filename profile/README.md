@@ -12,7 +12,7 @@
 
 ## Getting started with Local LLM tools
 
-* Huggingface tutorial on how to run your local LLMs and code AI: https://www.linkedin.com/events/welcometoopensourceai-runyourow7475879967709642752/theater/ 
+* Huggingface tutorial on how to run your local LLMs and code AI: https://www.linkedin.com/events/7475879967709642752/
 
 ### Use LLMs locally on your hardware
 
