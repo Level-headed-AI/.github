@@ -1,4 +1,4 @@
 # Level-headed AI Discussions
 
 
-![](logo.png){with=20%}
+![](logo.png){width=20%}
